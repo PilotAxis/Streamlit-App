@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-top:50px"></img>
+
 # Streamlit App
 
 A Student's Records Management System to perform CRUD (Create, Read, Update and Delete) Operations on the data. This project is build using Python, MySQL and StreamLit.
